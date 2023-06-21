@@ -124,6 +124,7 @@ input::placeholder{
     border-radius: 5px;
     padding: 7px;
     width: 55%;
+    color: #ffffff;
 }
 .signup_button{
     color: #aed78e;
